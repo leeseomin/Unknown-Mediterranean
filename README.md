@@ -4,7 +4,14 @@
 
  ### Unknown Mediterranean #1/50
 
- <img src="https://github.com/leeseomin/Unknown-Mediterranean/blob/main/ART/1.png" width="55%">    
+ <img src="https://github.com/leeseomin/Unknown-Mediterranean/blob/main/ART/1.png" width="50%">    
+ 
+ <br/><br/> 
+
+
+ ### Unknown Mediterranean #2/50
+
+ <img src="https://github.com/leeseomin/Unknown-Mediterranean/blob/main/ART/2.png" width="50%">    
  
  <br/><br/> 
 
